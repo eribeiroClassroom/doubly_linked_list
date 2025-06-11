@@ -53,4 +53,6 @@ Current.getNext().setPrevious(current.getPrevious())   // instead of (Current.ne
 
 4. (25 pts) Finally, test your program using the sequence `10, 20, 30, 40, 50, 60, 70, 80, 90, 100`, which you can hardcode. In your main program, you should provide calls to demonstrate (test) each function in Item 1 on this list of tasks. You  must also add a screenshot of your program's execution to this README.md file.
 
-   
+## Screenshots of program execution
+
+Screenshots go here ... 
